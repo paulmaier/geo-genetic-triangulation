@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# GGT output
+output/
+Rplots.pdf

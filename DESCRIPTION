@@ -1,0 +1,11 @@
+Package: GGT
+Title: Geo-Genetic Triangulation
+Version: 2.0.0
+Description: Locates probable ancestor locations from triangulated IBD
+    segments and geocoded family trees (Begg et al. 2023, Current Biology).
+    This file lists dependencies; GGT is run as a script (GGT.R), not
+    installed as a package.
+License: file LICENSE
+Depends: R (>= 4.1)
+Imports: optparse, data.table, sf, ggplot2 (>= 3.4.0), maps
+Suggests: terra, testthat, sp

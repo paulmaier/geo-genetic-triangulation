@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+title: "GGT: Geo-Genetic Triangulation"
+message: "If you use GGT, please cite the article below."
+type: software
+authors:
+  - family-names: Maier
+    given-names: Paul A.
+version: 2.0.0
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/paulmaier/geo-genetic-triangulation"
+identifiers:
+  - type: doi
+    value: 10.5061/dryad.k0p2ngfc4
+    description: "Version 1 code and data (Dryad)"
+preferred-citation:
+  type: article
+  authors:
+    - {family-names: Begg, given-names: Tristan James Alexander}
+    - {family-names: Schmidt, given-names: Axel}
+    - {family-names: Kocher, given-names: Arthur}
+    - {family-names: Larmuseau, given-names: Maarten H. D.}
+    - {family-names: Runfeldt, given-names: Göran}
+    - {family-names: Maier, given-names: Paul Andrew}
+    - {family-names: Wilson, given-names: John D.}
+    - {family-names: Barquera, given-names: Rodrigo}
+    - {family-names: Maj, given-names: Carlo}
+    - {family-names: Szolek, given-names: András}
+    - {family-names: Sager, given-names: Michael}
+    - {family-names: Clayton, given-names: Stephen}
+    - {family-names: Peltzer, given-names: Alexander}
+    - {family-names: Hui, given-names: Ruoyun}
+    - {family-names: Ronge, given-names: Julia}
+    - {family-names: Reiter, given-names: Ella}
+    - {family-names: Freund, given-names: Cäcilia}
+    - {family-names: Burri, given-names: Marta}
+    - {family-names: Aron, given-names: Franziska}
+    - {family-names: Tiliakou, given-names: Anthi}
+    - {family-names: Osborn, given-names: Joanna}
+    - {family-names: Behar, given-names: Doron M.}
+    - {family-names: Boecker, given-names: Malte}
+    - {family-names: Brandt, given-names: Guido}
+    - {family-names: Cleynen, given-names: Isabelle}
+    - {family-names: Strassburg, given-names: Christian}
+    - {family-names: Prüfer, given-names: Kay}
+    - {family-names: Kühnert, given-names: Denise}
+    - {family-names: Meredith, given-names: William Rhea}
+    - {family-names: Nöthen, given-names: Markus M.}
+    - {family-names: Attenborough, given-names: Robert David}
+    - {family-names: Kivisild, given-names: Toomas}
+    - {family-names: Krause, given-names: Johannes}
+  title: "Genomic analyses of hair from Ludwig van Beethoven"
+  journal: "Current Biology"
+  year: 2023
+  volume: 33
+  issue: 8
+  start: 1431
+  end: 1447
+  doi: 10.1016/j.cub.2023.02.041
